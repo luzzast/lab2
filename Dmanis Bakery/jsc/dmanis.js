@@ -10,7 +10,7 @@ function validateLoginForm() {
         alert("Please correct your email");
         return false;
     }
-    setCookies(10);
+ 
 }
 
 function validateRegForm() {
